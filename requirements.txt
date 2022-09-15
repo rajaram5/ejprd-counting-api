@@ -1,0 +1,7 @@
+rdflib
+SPARQLWrapper
+requests
+typing
+fastapi
+pydantic
+uvicorn[standard]
